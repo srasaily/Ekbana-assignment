@@ -1,0 +1,10 @@
+Here, We are examining correlations between different features and weekly sales of a Store. Since, for different stores, there are different departments. We have taken consideration into only one store. 
+
+From different correlation matrix following suggestions can be derived.
+1. Since, Markdown is positively correlated with Weekly Sales. Different MarkDown programs can help to boost sales of store.
+
+2. Temperature and Weekly Store are negatively corelated. Thus, Different attractive programs and discount programs at summer would really help store to cancel out negative effect of Temperature. 
+
+3. To cancelling out effect of Temperature, Air Conditioning every departments of stores is a better option.
+
+4. Other different factors affects Weekly Sales of store depending upon type of products store sell. 
